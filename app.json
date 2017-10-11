@@ -1,6 +1,6 @@
 {
-  "name": "Node API example",
+  "name": "Node API - Progress App",
   "description": "A simple API built in Node and Express hosted on Heroku",
-  "repository": "https://github.com/coryhouse/js-dev-env-demo-api",
+  "repository": "https://github.com/kleighton/ProgressApp-API",
   "keywords": ["node", "express", "static"]
 }
